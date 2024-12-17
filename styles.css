@@ -37,13 +37,14 @@ img:hover{transform: scale(130%);}
     
  }
  @media  all and (max-width:600px){
-    .dropdown-toggle{display: block;left:300px}
-   
+    .dropdown-toggle{display: block;left:200px}
+    .choice{height: 100px;}
+   .x{left: 150px;}
  }
  @media  all and (max-width:920px) and (min-width:600px){
     .dropdown-toggle{display: block;left:350px}
-    
-   
+    .choice{height: 100px;}
+    .x{left: 150px;}
  }
  
     
